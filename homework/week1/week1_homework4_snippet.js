@@ -32,15 +32,15 @@ function myFunction(option, option2) {
 
 }
 
-// Define result by using let equal myfunction has two number is 1 and 11
+// Define result by using let equal myfunction has two number is 1 and 11.
 let result = myFunction(1, 11);
-//  Define result2 by using let equal myfunction has two number is 2 and 200
+// Define result2 by using let equal myfunction has two number is 2 and 200.
 let result2 = myFunction(2, 200);
 
-// check if condition if the value result is equal then display "An error happened" and the value result2 is equal then display "An error happened"
+// check if condition result is True and result2 is True then the console.log will display.
 if ( result === "An error happened" && result2 === "An error happened") {
     
-    // Use console.log for display  "Catastrophic failure." If not in condition ( result === "An error happened" && result2 === "An error happened")
+    // Use console.log for display  "Catastrophic failure." 
     console.log("Catastrophic failure.");
 
 }
