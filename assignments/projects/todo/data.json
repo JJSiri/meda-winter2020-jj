@@ -1,0 +1,12 @@
+{
+    "name": "Sirikalaya JJ Siripatt",
+    "object" : [
+        {
+            "location" : "San Francisco"
+        },
+        {
+            "native" : "Thailand"
+        },
+        {   "status" : "Student"}
+    ]
+}
